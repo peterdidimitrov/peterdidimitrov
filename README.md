@@ -3,9 +3,6 @@ My name is Peter and I am going to be a Full-Stack developer.
 I am from Sofia, Bulgaria and I am currently learning programing in SoftUni University, working on my programing skils and learning React, TypeScript, MS SQL and Entity Framework Core.
 I have successfully completed the C# Advanced and JS Front-End modules in the SoftUni curriculum.
 
-<h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterdidimitrov&label=Profile%20views&color=0e75b6&style=flat" alt="peterdidimitrov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterdidimitrov" alt="peterdidimitrov" /></a> </p>
