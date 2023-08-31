@@ -8,6 +8,7 @@ I have successfully completed the C# Advanced and JS Front-End modules in the So
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterdidimitrov" alt="peterdidimitrov" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+in/peter-dimitrov-69869937
 <p align="left">
 </p>
 
