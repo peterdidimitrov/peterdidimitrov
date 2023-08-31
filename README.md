@@ -9,7 +9,7 @@ I have successfully completed the C# Advanced and JS Front-End modules in the So
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/n/peter-dimitrov-69869937](https://www.linkedin.com/in/peter-dimitrov-69869937/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[in/peter-dimitrov-69869937](https://linkedin.com/in/n/peter-dimitrov-69869937)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/peter-dimitrov-69869937/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-dimitrov-69869937/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
