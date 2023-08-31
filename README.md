@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Peter and I am going to be a Full-Stack developer.
+I am from Sofia, Bulgaria and I am currently learning programing in SoftUni University, working on my programing skils and learning React, TypeScript, MS SQL and Entity Framework Core.
+I have successfully completed the C# Advanced and JS Front-End modules in the SoftUni curriculum.
 
 <!--
 **peterdidimitrov/peterdidimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
