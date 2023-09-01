@@ -3,7 +3,7 @@
 <p>My name is Peter and I am going to be a Full-Stack developer.</p>
 <p>I am from Sofia, Bulgaria and currently I am learning programing in SoftUni University.</p>
 <p>I have successfully completed the C# Advanced and JS Front-End modules in the SoftUni curriculum.</p>
-<p>My goals for now are to inprove my programing skils with C#, JS, C++ and learning React, TypeScript, MS SQL and Entity Framework Core.</p>
+<p>My goals for now are to improve my programing skils with C#, JS, C++ and learning React, TypeScript, MS SQL and Entity Framework Core.</p>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=peterdidimitrov&label=Profile%20views&color=0e75b6&style=flat" alt="peterdidimitrov" /> 
