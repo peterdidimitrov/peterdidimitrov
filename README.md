@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <p>My name is Peter and I am going to be a Full-Stack developer.</p>
-<p>I am from Sofia, Bulgaria and currently I am learning programming in SoftUni University.</p>
-<p>I have successfully completed the C# Advanced and JS Front-End modules in the SoftUni curriculum.</p>
-<p>My goals for now are to improve my programming skills with C#, JS, C++, MS SQL, Entity Framework Core and learning React and TypeScript.</p>
+<p>I am a highly motivated and results-oriented junior C# developer with a strong background in MS SQL Server and Entity Framework. My journey into the world of programming began in April 2022 when I enrolled in a programming basics course out of sheer curiosity. To my surprise, not only did I discover a natural aptitude for coding, but I also found genuine enjoyment in the process.</p>
+<p>With over a year of hands-on experience, I embarked on my coding adventure by participating in a C# software engineering program at SoftuUni. This foundational experience has equipped me with a solid understanding of programming principles and practices. Eager to expand my horizons, my current focus is on enhancing my skills further.</p>
+<p>My passion for programming has led me to explore cutting-edge technologies such as React and TypeScript. These technologies fascinate me due to their versatility and efficiency in building modern, user-friendly applications. I am excited about the prospect of delving deeper into these areas to create innovative solutions and enhance user experiences.</p>
+<p>My dedication to continuous learning and growth drives me to seek new challenges and opportunities within the software development field. I am confident in my abilities to tackle complex problems, collaborate effectively with teams, and contribute positively to any project I am a part of.</p>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=peterdidimitrov&label=Profile%20views&color=0e75b6&style=flat" alt="peterdidimitrov" /> 
